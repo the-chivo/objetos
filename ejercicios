@@ -1,0 +1,12 @@
+const lista = ["manzana","pera", "platano", "cereza" ]
+// utilizando metodos de lisas y strings devuelve un string que 
+//capitalize cada palabra y luego las junte en un string
+// por ejemplo;
+//ManzanaPeraPlatanoCereza
+
+const string = "hola mundo"
+//utilizando metodos de listas y strrings, devuelve el anterior string
+//alternando entre minusculas y mayusculas
+// por ejemplo
+//hOlA mUnDo
+//Extra haz algo interesante con metodos de strings, arrays,numeros,watherver
